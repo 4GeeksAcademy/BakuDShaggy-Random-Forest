@@ -1,0 +1,20 @@
+{
+    "model": "Random Forest",
+    "accuracy": 0.7359307359307359,
+    "best_params": {
+        "max_depth": 10,
+        "max_features": "sqrt",
+        "min_samples_split": 10,
+        "n_estimators": 50
+    },
+    "feature_importances": {
+        "Pregnancies": 0.09064174292841179,
+        "Glucose": 0.2978914593505087,
+        "BloodPressure": 0.07228485909346832,
+        "SkinThickness": 0.054088963552011995,
+        "Insulin": 0.09936258919933699,
+        "BMI": 0.16722420633063861,
+        "DiabetesPedigreeFunction": 0.10427235482527751,
+        "Age": 0.11423382472034616
+    }
+}
